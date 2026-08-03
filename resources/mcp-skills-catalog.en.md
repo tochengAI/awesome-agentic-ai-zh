@@ -302,7 +302,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 5.1k+ |
+| Stars | ★ 5.7k+ |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐⭐ (most popular community Atlassian) |
 
@@ -326,7 +326,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 1.6k+ |
+| Stars | ★ 1.8k+ |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐ (no admin permissions needed) |
 
@@ -362,7 +362,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 92k+ |
+| Stars | ★ 101k+ |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐⭐ |
 
@@ -386,7 +386,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 33k+ |
+| Stars | ★ 37k+ |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐⭐ (code intelligence) |
 
@@ -474,7 +474,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 504 |
+| Stars | ★ 556 |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐ (**Redis official**) |
 
@@ -590,7 +590,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 48k+ |
+| Stars | ★ 54k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐⭐⭐ |
 
@@ -606,7 +606,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 3k+ |
+| Stars | ★ 3.3k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐⭐⭐ (**Grafana official**) |
 
@@ -782,7 +782,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 7.5k+ |
+| Stars | ★ 8.3k+ |
 | License | Apache-2.0 |
 | Rating | ⭐⭐⭐⭐ |
 
@@ -877,7 +877,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 165 |
+| Stars | ★ 183 |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐⭐ (full research workflow) |
 
@@ -889,7 +889,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 8 |
+| Stars | ★ 10 |
 | License | MIT |
 | Rating | ⭐⭐⭐ (narrow but deep) |
 
@@ -913,7 +913,7 @@
 
 | Field | Value |
 |---|---|
-| Stars | ★ 38 |
+| Stars | ★ 42 |
 | License | MIT |
 | Rating | ⭐⭐⭐⭐ |
 

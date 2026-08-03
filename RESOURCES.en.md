@@ -36,7 +36,7 @@ Connect Claude Code (or any other CLI agent) to the apps you already use, withou
 ### Office Documents (Word / Excel / PowerPoint / PDF)
 
 - [**anthropics/skills**](https://github.com/anthropics/skills) ★ 158k+ — Anthropic **official** Skills with built-in docx / xlsx / pptx / pdf processing
-- [**tfriedel/claude-office-skills**](https://github.com/tfriedel/claude-office-skills) ★ 725 — Office skills with automation workflows on top of the official ones
+- [**tfriedel/claude-office-skills**](https://github.com/tfriedel/claude-office-skills) ★ 801 — Office skills with automation workflows on top of the official ones
 
 ### Google Workspace (Gmail / Docs / Drive / Calendar)
 
@@ -44,15 +44,15 @@ Connect Claude Code (or any other CLI agent) to the apps you already use, withou
 
 ### Dev Collaboration
 
-- [**github/github-mcp-server**](https://github.com/github/github-mcp-server) ★ 29k+ — GitHub **official** MCP for issues / PRs / repos
-- [**atlassian/atlassian-mcp-server**](https://github.com/atlassian/atlassian-mcp-server) ★ 810 — Atlassian **official** Remote MCP (Jira, Confluence)
+- [**github/github-mcp-server**](https://github.com/github/github-mcp-server) ★ 31k+ — GitHub **official** MCP for issues / PRs / repos
+- [**atlassian/atlassian-mcp-server**](https://github.com/atlassian/atlassian-mcp-server) ★ 926 — Atlassian **official** Remote MCP (Jira, Confluence)
 - [**jerhadf/linear-mcp-server**](https://github.com/jerhadf/linear-mcp-server) ★ 340+ — Linear MCP
 - [**korotovsky/slack-mcp-server**](https://github.com/korotovsky/slack-mcp-server) ★ 1.7k+ — Slack MCP, works without admin permissions
 
 ### Research Workflow (by the repo maintainer)
 
-- [**WenyuChiou/ai-research-skills**](https://github.com/WenyuChiou/ai-research-skills) ★ 165 — 14 research-workflow skills as a 5-plugin marketplace
-- [**WenyuChiou/research-hub**](https://github.com/WenyuChiou/research-hub) ★ 38 — Zotero + Obsidian + NotebookLM integration workspace
+- [**WenyuChiou/ai-research-skills**](https://github.com/WenyuChiou/ai-research-skills) ★ 183 — 14 research-workflow skills as a 5-plugin marketplace
+- [**WenyuChiou/research-hub**](https://github.com/WenyuChiou/research-hub) ★ 42 — Zotero + Obsidian + NotebookLM integration workspace
 - [**WenyuChiou/zotero-skills**](https://github.com/WenyuChiou/zotero-skills) ★ 45 — Zotero CLI skill
 - [**WenyuChiou/codex-delegate**](https://github.com/WenyuChiou/codex-delegate) ★ 57 + [**gemini-delegate-skill**](https://github.com/WenyuChiou/gemini-delegate-skill) ★ 34 (⚠️ archived) — multi-LLM delegation pair (for the Gemini lane, use Gemini CLI directly)
 

@@ -220,7 +220,7 @@ README 跟各 stage 会频繁提到这三个 Claude Code 生态的关键词，�
 **办公文件（Word / Excel / PowerPoint / PDF）**
 
 - [**anthropics/skills**](https://github.com/anthropics/skills) ★ 158k+ — Anthropic **官方** Skills 集合，docx / xlsx / pptx / pdf 处理直接内置
-- [**tfriedel/claude-office-skills**](https://github.com/tfriedel/claude-office-skills) ★ 725 — 增强版 Office skills（PPTX/DOCX/XLSX/PDF），含自动化 workflow
+- [**tfriedel/claude-office-skills**](https://github.com/tfriedel/claude-office-skills) ★ 801 — 增强版 Office skills（PPTX/DOCX/XLSX/PDF），含自动化 workflow
 
 **Google Workspace（Gmail / Docs / Drive / Calendar）**
 
@@ -228,8 +228,8 @@ README 跟各 stage 会频繁提到这三个 Claude Code 生态的关键词，�
 
 **开发协作**
 
-- [**github/github-mcp-server**](https://github.com/github/github-mcp-server) ★ 29k+ — GitHub **官方** MCP，issue / PR / repo 操作
-- [**atlassian/atlassian-mcp-server**](https://github.com/atlassian/atlassian-mcp-server) ★ 810 — Atlassian **官方** Remote MCP（Jira、Confluence）
+- [**github/github-mcp-server**](https://github.com/github/github-mcp-server) ★ 31k+ — GitHub **官方** MCP，issue / PR / repo 操作
+- [**atlassian/atlassian-mcp-server**](https://github.com/atlassian/atlassian-mcp-server) ★ 926 — Atlassian **官方** Remote MCP（Jira、Confluence）
 - [**jerhadf/linear-mcp-server**](https://github.com/jerhadf/linear-mcp-server) ★ 340+ — Linear MCP server
 - [**korotovsky/slack-mcp-server**](https://github.com/korotovsky/slack-mcp-server) ★ 1.7k+ — Slack MCP，无 admin 权限也能用
 

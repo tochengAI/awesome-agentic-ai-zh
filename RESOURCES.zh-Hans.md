@@ -36,7 +36,7 @@
 ### 办公文件（Word / Excel / PowerPoint / PDF）
 
 - [**anthropics/skills**](https://github.com/anthropics/skills) ★ 158k+ — Anthropic **官方** Skills 集合，docx / xlsx / pptx / pdf 处理直接内建
-- [**tfriedel/claude-office-skills**](https://github.com/tfriedel/claude-office-skills) ★ 725 — 补强版 Office skills（PPTX/DOCX/XLSX/PDF），含自动化 workflow
+- [**tfriedel/claude-office-skills**](https://github.com/tfriedel/claude-office-skills) ★ 801 — 补强版 Office skills（PPTX/DOCX/XLSX/PDF），含自动化 workflow
 
 ### Google Workspace（Gmail / Docs / Drive / Calendar）
 
@@ -44,15 +44,15 @@
 
 ### 开发协作
 
-- [**github/github-mcp-server**](https://github.com/github/github-mcp-server) ★ 29k+ — GitHub **官方** MCP，issue / PR / repo 操作
-- [**atlassian/atlassian-mcp-server**](https://github.com/atlassian/atlassian-mcp-server) ★ 810 — Atlassian **官方** Remote MCP（Jira、Confluence）
+- [**github/github-mcp-server**](https://github.com/github/github-mcp-server) ★ 31k+ — GitHub **官方** MCP，issue / PR / repo 操作
+- [**atlassian/atlassian-mcp-server**](https://github.com/atlassian/atlassian-mcp-server) ★ 926 — Atlassian **官方** Remote MCP（Jira、Confluence）
 - [**jerhadf/linear-mcp-server**](https://github.com/jerhadf/linear-mcp-server) ★ 340+ — Linear MCP server
 - [**korotovsky/slack-mcp-server**](https://github.com/korotovsky/slack-mcp-server) ★ 1.7k+ — Slack MCP，无 admin 权限也能用
 
 ### 研究工作流（本 repo 维护者出品）
 
-- [**WenyuChiou/ai-research-skills**](https://github.com/WenyuChiou/ai-research-skills) ★ 165 — 14 个研究流程 skill，5-plugin marketplace
-- [**WenyuChiou/research-hub**](https://github.com/WenyuChiou/research-hub) ★ 38 — Zotero + Obsidian + NotebookLM 集成 workspace
+- [**WenyuChiou/ai-research-skills**](https://github.com/WenyuChiou/ai-research-skills) ★ 183 — 14 个研究流程 skill，5-plugin marketplace
+- [**WenyuChiou/research-hub**](https://github.com/WenyuChiou/research-hub) ★ 42 — Zotero + Obsidian + NotebookLM 集成 workspace
 - [**WenyuChiou/zotero-skills**](https://github.com/WenyuChiou/zotero-skills) ★ 45 — Zotero CLI skill
 - [**WenyuChiou/codex-delegate**](https://github.com/WenyuChiou/codex-delegate) ★ 57 + [**gemini-delegate-skill**](https://github.com/WenyuChiou/gemini-delegate-skill) ★ 34（⚠️ 已封存）— Multi-LLM delegation 对（Gemini lane 建议改用 Gemini CLI 直接做）
 
